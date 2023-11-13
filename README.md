@@ -1,2 +1,1 @@
-# zin
-# Just a small exerice
+# Just a small exerice in Html Css
